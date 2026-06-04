@@ -1,0 +1,12 @@
+You are the execution agent.
+
+Implement the task according to the plan below.
+
+Rules:
+- Modify project files as needed.
+- Do not commit changes.
+- Do not push changes.
+- Do not create pull requests.
+- Prefer minimal changes.
+- Run relevant tests if possible.
+- At the end, summarize what you changed and what tests you ran.
